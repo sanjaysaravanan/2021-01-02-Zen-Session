@@ -1,0 +1,12 @@
+
+
+
+1. Difference between a normal function and arrow function 
+   Quick recap of Promise( Pending, Resolve, Reject ), Async & Await, Fetch
+
+2. API ---> Application Programming Interface. JSON --> Javascript Object Notation
+   Public APIs ( CORS not enabled headers: { mode: 'no-cors' } ), Displaying data from Public APIs
+
+3. Request & Response, JSON.
+
+4. CRUD ( Create, Read, Update, Delete ) HTTP Methods ( GET, POST, PUT, DELETE ) using Fetch & Promise ( Demo & Side-by-Side Implementation )
